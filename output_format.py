@@ -32,6 +32,8 @@ def spacy_format(list_of_taggings):
             out_str = out_str + tag_tuple[0] + '\tLOC\n'
         elif tag_tuple[1] == 'GPE':
             out_str = out_str + tag_tuple[0] + '\tLOC\n'
+        elif tag_tuple[1] == 'FAC':
+            out_str = out_str + tag_tuple[0] + '\tLOC\n'
         else:
             out_str = out_str + tag_tuple[0] + '\tO\n'
     out_str = out_str + '\n'
@@ -68,6 +70,8 @@ def nltk_format(tag_tree):
         elif 'LOCATION' in tag_tuple[2]:
             out_str = out_str + tag_tuple[0] + '\tLOC\n'
         elif 'GPE' in tag_tuple[2]:
+            out_str = out_str + tag_tuple[0] + '\tLOC\n'
+        elif 'FACILITY' in tag_tuple[2]:
             out_str = out_str + tag_tuple[0] + '\tLOC\n'
         else:
             out_str = out_str + tag_tuple[0] + '\tO\n'
