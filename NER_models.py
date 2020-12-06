@@ -29,7 +29,7 @@ jar = '../stanford-ner-2020-11-17/stanford-ner.jar'
 encoding = 'utf8'
 
 tagger = StanfordNERTagger(model, jar, encoding)
-print(tagger.tag(tok_words))
+print(output_format.stanford_format(tagger.tag(tok_words)))
 
 print('\n\n\nNLTK:\n\n\n')
 
@@ -40,7 +40,7 @@ print('\n\n\nNLTK:\n\n\n')
 
 # notice that what is returned is a tree-liked annotated text, so we have to handle the formatting to match with the answer key
 pos_tags = pos_tag(tok_words)
-print(nltk.ne_chunk(pos_tags))
+print(output_format.nltk_format(nltk.ne_chunk(pos_tags)))
 
 
 
@@ -66,12 +66,14 @@ sentence = Sentence(text)
 tagger.predict(sentence)
 
 # print results
-# word + \t + 
+# word + \t + tag
+lst = []
 for token in sentence:
-    print(str(token).split(' ')[2], end='')
-    print('\t', end='')
-    print(str(token.get_tag('ner')).split(' ')[0])
-
+    lst.append([str(token).split(' ')[2], str(token.get_tag('ner')).split(' ')[0]])
+    # print(str(token).split(' ')[2], end='')
+    # print('\t', end='')
+    # print(str(token.get_tag('ner')).split(' ')[0])
+print(output_format.flair_format(lst))
 
 
 print('\n\n\nSpaCY\n\n\n')
@@ -89,8 +91,11 @@ tagger = spacy.load("en_core_web_sm")
 
 doc = tagger(text)
 # we can just use the label data field to see the tag
+lst = []
 for word in doc:
-    print(word.text, word.ent_type_)
+    lst.append([word.text, word.ent_type_])
+    # print(word.text, word.ent_type_)
+print(output_format.spacy_format(lst))
 
 # Notice that if a word is not tagged, its tag is an empty string
 

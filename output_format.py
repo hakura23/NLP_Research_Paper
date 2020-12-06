@@ -1,3 +1,5 @@
+from nltk.chunk import tree2conlltags
+
 # Stanford
 def stanford_format(list_of_taggings):
     out_str = '\n'   
