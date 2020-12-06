@@ -1,4 +1,3 @@
--DOCSTART-	O
 
 This	O
 LOAN	O

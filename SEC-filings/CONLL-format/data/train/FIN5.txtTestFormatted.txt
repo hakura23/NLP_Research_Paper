@@ -1,4 +1,3 @@
--DOCSTART-
 
 This
 LOAN
