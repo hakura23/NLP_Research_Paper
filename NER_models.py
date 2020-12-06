@@ -3,7 +3,7 @@ from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
 
 # sample text and tokenized text
-text = 'Qiaotong Wu, Bruce Jiang, and Thomas Lin are students at New York University working on NER taggers.'
+text = 'Qiaotong\n Wu\n, Bruce\n Jiang\n, and\n Thomas\n Lin\n are\n students\n at\n New\n York\n University\n working\n on\n NER\n taggers\n.\n'
 tok_words = word_tokenize(text)
 
 
