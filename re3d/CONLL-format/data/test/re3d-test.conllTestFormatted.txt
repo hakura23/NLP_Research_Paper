@@ -407,7 +407,7 @@ or
 partner
 forces
 .
-â€?
+ï¿½?
 
 We
 refer
@@ -2181,7 +2181,7 @@ localized
 counter
 attacks
 .
-â€?
+ï¿½?
 The
 squadron
 will
@@ -3245,7 +3245,7 @@ Arabic
 ÙŠ
 Ù†
 Jab
-Ä?
+ï¿½?
 l
 Hamr
 Ä«
@@ -3550,7 +3550,7 @@ with
 our
 partners
 .
-â€?
+ï¿½?
 
 I
 commend
@@ -5456,3 +5456,4 @@ of
 the
 attack
 .
+

@@ -2369,7 +2369,7 @@ the	O
 three	O
 auditioned	O
 Tomo	PER
-Mili�?ević	PER
+Mili�?ević	PER
 to	O
 round	O
 out	O
@@ -6544,7 +6544,7 @@ April	O
 in	O
 Gostkócity	O
 near	O
-�?ęczyca	LOC
+�?ęczyca	LOC
 in	O
 a	O
 Polish	O
@@ -7679,8 +7679,8 @@ Gradsky	PER
 (	O
 Russian	O
 :	O
-�?лек�?андр	O
-Град�?кий	O
+�?лек�?андр	O
+Град�?кий	O
 ,	O
 born	O
 November	O
@@ -12571,7 +12571,7 @@ Urban	ORG
 Transport	ORG
 Organisation	ORG
 /	O
-Ο�?γανισμός	O
+Ο�?γανισμός	O
 Αστικών	O
 Συγκοινωνιών	O
 Αθηνών	O
@@ -12587,7 +12587,7 @@ Attiko	ORG
 Metro	ORG
 (	O
 Αττικό	O
-Μετ�?ό	O
+Μετ�?ό	O
 Α.Ε.	O
 in	O
 Greek	O
@@ -18393,7 +18393,7 @@ outskirts	O
 of	O
 nature	O
 park	O
-Kopa�?ki	LOC
+Kopa�?ki	LOC
 Rit	LOC
 in	O
 the	O
@@ -18494,7 +18494,7 @@ Europe	LOC
 Belje	LOC
 .	O
 
-Kopa�?ki	LOC
+Kopa�?ki	LOC
 Rit	LOC
 ,	O
 situated	O
@@ -18528,7 +18528,7 @@ Mece	LOC
 The	O
 area	O
 surrounding	O
-Kopa�?ki	LOC
+Kopa�?ki	LOC
 Rit	LOC
 offers	O
 rich	O
@@ -28174,7 +28174,7 @@ Hospital	ORG
 Mostar	ORG
 (	O
 Croatian	O
-Klini�?ka	O
+Klini�?ka	O
 bolnica	O
 Mostar	O
 )	O
@@ -40989,6 +40989,4 @@ a	O
 Russian	O
 singer	O
 .	O
-
--DOCSTART-	O
 

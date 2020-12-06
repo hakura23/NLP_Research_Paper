@@ -37463,7 +37463,7 @@ Agreement
 this
 â€œ
 Agreement
-â€?)
+ï¿½?)
 is
 made
 and
@@ -37501,7 +37501,7 @@ Inc
 .
 (â€œ
 Lender
-â€?),
+ï¿½?),
 a
 limited
 company
@@ -37522,11 +37522,11 @@ of
 China
 (â€œ
 PRC
-â€?
+ï¿½?
 or
 â€œ
 China
-â€?)
+ï¿½?)
 with
 its
 address
@@ -37566,7 +37566,7 @@ Bing
 Yu
 (â€œ
 Borrower
-â€?),
+ï¿½?),
 a
 citizen
 of
@@ -37622,7 +37622,7 @@ as
 a
 â€œ
 Party
-â€?
+ï¿½?
 respectively
 ,
 and
@@ -37631,7 +37631,7 @@ collectively
 the
 â€œ
 Parties
-â€?.
+ï¿½?.
 
 Whereas
 ,
@@ -37713,7 +37713,7 @@ RMB6
 the
 â€œ
 Loan
-â€?)
+ï¿½?)
 to
 Borrower
 .
@@ -37973,7 +37973,7 @@ the
 Exclusive
 Option
 Agreement
-â€?)
+ï¿½?)
 described
 in
 Sections
@@ -38132,7 +38132,7 @@ the
 â€œ
 Borrower
 Company
-â€?,
+ï¿½?,
 a
 domestic
 -
@@ -38182,7 +38182,7 @@ the
 Borrower
 Equity
 Interest
-â€?).
+ï¿½?).
 
 Borrower
 agrees
@@ -38461,7 +38461,7 @@ the
 Power
 of
 Attorney
-â€?,
+ï¿½?,
 referred
 to
 in
@@ -39107,7 +39107,7 @@ Exclusive
 Business
 Cooperation
 Agreement
-â€?)
+ï¿½?)
 with
 Lender
 (
@@ -40138,7 +40138,7 @@ the
 Share
 Pledge
 Agreement
-â€?)
+ï¿½?)
 with
 Lender
 ,
@@ -41566,7 +41566,7 @@ Arbitration
 Center
 (â€œ
 HKIAC
-â€?)
+ï¿½?)
 under
 the
 UNCITRAL
@@ -41610,7 +41610,7 @@ the
 Board
 of
 Arbitration
-â€?)
+ï¿½?)
 consisting
 of
 three

@@ -2369,7 +2369,7 @@ the
 three
 auditioned
 Tomo
-Mili�?ević
+Mili�?ević
 to
 round
 out
@@ -6544,7 +6544,7 @@ April
 in
 Gostkócity
 near
-�?ęczyca
+�?ęczyca
 in
 a
 Polish
@@ -7679,8 +7679,8 @@ Gradsky
 (
 Russian
 :
-�?лек�?андр
-Град�?кий
+�?лек�?андр
+Град�?кий
 ,
 born
 November
@@ -12571,7 +12571,7 @@ Urban
 Transport
 Organisation
 /
-Ο�?γανισμός
+Ο�?γανισμός
 Αστικών
 Συγκοινωνιών
 Αθηνών
@@ -12587,7 +12587,7 @@ Attiko
 Metro
 (
 Αττικό
-Μετ�?ό
+Μετ�?ό
 Α.Ε.
 in
 Greek
@@ -18393,7 +18393,7 @@ outskirts
 of
 nature
 park
-Kopa�?ki
+Kopa�?ki
 Rit
 in
 the
@@ -18494,7 +18494,7 @@ Europe
 Belje
 .
 
-Kopa�?ki
+Kopa�?ki
 Rit
 ,
 situated
@@ -18528,7 +18528,7 @@ Mece
 The
 area
 surrounding
-Kopa�?ki
+Kopa�?ki
 Rit
 offers
 rich
@@ -28174,7 +28174,7 @@ Hospital
 Mostar
 (
 Croatian
-Klini�?ka
+Klini�?ka
 bolnica
 Mostar
 )
@@ -40989,6 +40989,4 @@ a
 Russian
 singer
 .
-
--DOCSTART-
 

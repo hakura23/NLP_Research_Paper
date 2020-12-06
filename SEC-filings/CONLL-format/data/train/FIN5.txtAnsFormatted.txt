@@ -37463,7 +37463,7 @@ Agreement	O
 this	O
 â€œ	O
 Agreement	O
-â€?)	O
+ï¿½?)	O
 is	O
 made	O
 and	O
@@ -37501,7 +37501,7 @@ Inc	O
 .	O
 (â€œ	O
 Lender	PER
-â€?),	O
+ï¿½?),	O
 a	O
 limited	O
 company	O
@@ -37522,11 +37522,11 @@ of	O
 China	LOC
 (â€œ	O
 PRC	O
-â€?	O
+ï¿½?	O
 or	O
 â€œ	O
 China	LOC
-â€?)	O
+ï¿½?)	O
 with	O
 its	O
 address	O
@@ -37566,7 +37566,7 @@ Bing	PER
 Yu	PER
 (â€œ	O
 Borrower	PER
-â€?),	O
+ï¿½?),	O
 a	O
 citizen	O
 of	O
@@ -37622,7 +37622,7 @@ as	O
 a	O
 â€œ	O
 Party	O
-â€?	O
+ï¿½?	O
 respectively	O
 ,	O
 and	O
@@ -37631,7 +37631,7 @@ collectively	O
 the	O
 â€œ	O
 Parties	O
-â€?.	O
+ï¿½?.	O
 
 Whereas	O
 ,	O
@@ -37713,7 +37713,7 @@ RMB6	O
 the	O
 â€œ	O
 Loan	O
-â€?)	O
+ï¿½?)	O
 to	O
 Borrower	PER
 .	O
@@ -37973,7 +37973,7 @@ the	O
 Exclusive	O
 Option	O
 Agreement	O
-â€?)	O
+ï¿½?)	O
 described	O
 in	O
 Sections	O
@@ -38132,7 +38132,7 @@ the	O
 â€œ	O
 Borrower	PER
 Company	O
-â€?,	O
+ï¿½?,	O
 a	O
 domestic	O
 -	O
@@ -38182,7 +38182,7 @@ the	O
 Borrower	PER
 Equity	O
 Interest	O
-â€?).	O
+ï¿½?).	O
 
 Borrower	PER
 agrees	O
@@ -38461,7 +38461,7 @@ the	O
 Power	O
 of	O
 Attorney	O
-â€?,	O
+ï¿½?,	O
 referred	O
 to	O
 in	O
@@ -39107,7 +39107,7 @@ Exclusive	O
 Business	O
 Cooperation	O
 Agreement	O
-â€?)	O
+ï¿½?)	O
 with	O
 Lender	PER
 (	O
@@ -40138,7 +40138,7 @@ the	O
 Share	O
 Pledge	O
 Agreement	O
-â€?)	O
+ï¿½?)	O
 with	O
 Lender	PER
 ,	O
@@ -41566,7 +41566,7 @@ Arbitration	ORG
 Center	ORG
 (â€œ	O
 HKIAC	O
-â€?)	O
+ï¿½?)	O
 under	O
 the	O
 UNCITRAL	O
@@ -41610,7 +41610,7 @@ the	O
 Board	O
 of	O
 Arbitration	O
-â€?)	O
+ï¿½?)	O
 consisting	O
 of	O
 three	O

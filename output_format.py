@@ -1,9 +1,4 @@
-#import for NLTK
-import nltk
-from nltk import word_tokenize, pos_tag, ne_chunk
-from nltk.chunk import tree2conlltags
-
-# Format for Stanford
+# Stanford
 def stanford_format(list_of_taggings):
     out_str = '\n'   
     length = len(list_of_taggings)
@@ -21,7 +16,7 @@ def stanford_format(list_of_taggings):
     return out_str
 
 
-# Format for spaCy
+# spaCy
 def spaCy_format(list_of_taggings):
     out_str = '\n'
     length = len(list_of_taggings)
@@ -40,39 +35,21 @@ def spaCy_format(list_of_taggings):
     out_str = out_str + '\n'
     return out_str
 
-# Format for Flair
+# Flair
 def flair_format(list_of_taggings):
     out_str = '\n'   
     length = len(list_of_taggings)
     for i in range(length):
         tag_tuple = list_of_taggings[i]
-        if 'PER' in tag_tuple[1]:
+        if tag_tuple[1][2:]== 'PER':
             out_str = out_str + tag_tuple[0] + '\tPER\n'
-        elif 'ORG' in tag_tuple[1]:
+        elif tag_tuple[1][2:] == 'ORG':
             out_str = out_str + tag_tuple[0] + '\tORG\n'
-        elif 'LOC' in tag_tuple[1]:
+        elif tag_tuple[1][2:] == 'LOC':
             out_str = out_str + tag_tuple[0] + '\tLOC\n'
         else:
             out_str = out_str + tag_tuple[0] + '\tO\n'
     out_str = out_str + '\n'
     return out_str
 
-# Format for NLTK
-def nltk_format(tag_tree):
-    list_of_taggings = tree2conlltags(tag_tree)
-    out_str = '\n'
-    length = len(list_of_taggings)
-    for i in range(length):
-        tag_tuple = list_of_taggings[i]
-        if 'PERSON' in tag_tuple[2]:
-            out_str = out_str + tag_tuple[0] + '\tPER\n'
-        elif 'ORGANIZATION' in tag_tuple[2]:
-            out_str = out_str + tag_tuple[0] + '\tORG\n'
-        elif 'LOCATION' in tag_tuple[2]:
-            out_str = out_str + tag_tuple[0] + '\tLOC\n'
-        elif 'GPE' in tag_tuple[2]:
-            out_str = out_str + tag_tuple[0] + '\tLOC\n'
-        else:
-            out_str = out_str + tag_tuple[0] + '\tO\n'
-    out_str = out_str + '\n'
-    return out_str
+# NLTK

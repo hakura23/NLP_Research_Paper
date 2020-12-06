@@ -101,7 +101,7 @@ ITS	O
 A	O
 DOWNRIVER	O
 SWEEP	O
-â€?	O
+ï¿½?	O
 
 I	O
 can	O
@@ -1301,7 +1301,7 @@ is	O
 happening	O
 ?	O
 !	O
-â€?	O
+ï¿½?	O
 Paalam	O
 p5	O
 daw	O
@@ -1658,8 +1658,8 @@ cheese	O
 burger	O
 ðŸš¶	O
 http://t.co/EntC8WXw1E	O
-â€?	O
-ðŸ˜?	O
+ï¿½?	O
+ï¿½?	O
 ðŸ˜‚	O
 
 Contact	O
@@ -1803,8 +1803,8 @@ I	O
 'm	O
 a	O
 Virgo	O
-ðŸ˜?	O
-â€?	O
+ï¿½?	O
+ï¿½?	O
 
 http://t.co/15JA4cEG8j	O
 
@@ -1946,7 +1946,7 @@ Econ	ORG
 EOCT	O
 this	O
 morning	O
-ðŸ™?	O
+ï¿½?	O
 God	O
 please	O
 be	O
@@ -2083,7 +2083,7 @@ DEE	O
 RIGINAL	O
 :	O
 http://t.co/uT2CEgssmB	O
-â€?	O
+ï¿½?	O
 
 Man	O
 Chappell	PER
@@ -2127,7 +2127,7 @@ this	O
 .	O
 .	O
 http://t.co/9hy7TgBkfr	O
-â€?	O
+ï¿½?	O
 @	PER
 NoahEiden	PER
 
@@ -2254,7 +2254,7 @@ f	O
 *	O
 ck	O
 .	O
-â€?	O
+ï¿½?	O
 @	PER
 JAIhhooo	PER
 
@@ -2329,7 +2329,7 @@ love	O
 you	O
 so	O
 much	O
-â?¤	O
+ï¿½?ï¿½	O
 I	O
 wish	O
 you	O
@@ -2406,7 +2406,7 @@ DyrsRebater	PER
 thank	O
 youuu	O
 dyrs	O
-ðŸ˜?	O
+ï¿½?	O
 
 @	PER
 TimDrakeRobin3	PER
@@ -2459,8 +2459,8 @@ till	O
 I	O
 'm	O
 21	O
-ðŸ˜?	O
-ðŸ˜?	O
+ï¿½?	O
+ï¿½?	O
 
 She	O
 said	O
@@ -3056,7 +3056,7 @@ of	O
 stairs	O
 practice	O
 âœ”	O
-ï¸?	O
+ï¿½?	O
 9	O
 -	O
 11	O
@@ -3810,7 +3810,7 @@ http://t.co/DAItgYv0xe	O
 "	O
 ðŸ™‹	O
 ðŸ™‹	O
-ðŸ’?	O
+ï¿½?	O
 
 I	O
 procrastinate	O
@@ -4043,7 +4043,7 @@ foodstamps	O
 .	O
 Carry	O
 on	O
-â€?	O
+ï¿½?	O
 ðŸ˜‚	O
 ðŸ˜‚	O
 ðŸ˜‚	O
@@ -4098,7 +4098,7 @@ is	O
 a	O
 real	O
 problem	O
-ðŸ˜?	O
+ï¿½?	O
 
 RT	ORG
 @	PER
@@ -4131,7 +4131,7 @@ drive	O
 thru	O
 ðŸŽ¤	O
 http://t.co/dBIXSfgDml	O
-â€?	O
+ï¿½?	O
 
 â€œ	O
 @	PER
@@ -4152,7 +4152,7 @@ mixtapes	O
 &	O
 babies	O
 .	O
-â€?	O
+ï¿½?	O
 Lol	O
 
 @BBYUNOT	O
@@ -4376,7 +4376,7 @@ to	O
 sleep	O
 NOW	O
 âœŒ	O
-ï¸?	O
+ï¿½?	O
 ðŸ‘‹	O
 ðŸ‘‹	O
 ðŸ‘‹	O
@@ -5614,7 +5614,7 @@ this	O
 .	O
 Crazyyyy	O
 http://t.co/GzG2zClQUT	O
-â€?	O
+ï¿½?	O
 cool	O
 afffff	O
 
@@ -5817,7 +5817,7 @@ You	O
 and	O
 I	O
 http://t.co/Ysn34FhkFw	O
-â€?	O
+ï¿½?	O
 
 U	ORG
 2	ORG
@@ -6065,7 +6065,7 @@ As	O
 for	O
 the	O
 semester	O
-ðŸ‘?	O
+ï¿½?	O
 
 â€œ	O
 @	PER
@@ -6099,7 +6099,7 @@ I	O
 can	O
 trust	O
 ðŸ‘Œ	O
-â€?	O
+ï¿½?	O
 preachhhh	O
 ðŸ™Œ	O
 
@@ -6471,8 +6471,8 @@ shrewd	O
 ðŸ˜‚	O
 ðŸ˜‚	O
 ðŸ˜‚	O
-â€?	O
-â€?	O
+ï¿½?	O
+ï¿½?	O
 
 @	PER
 TheNickAlbright	PER
@@ -6610,8 +6610,8 @@ I	O
 'm	O
 preparing	O
 myself	O
-ðŸ™?	O
-â€?	O
+ï¿½?	O
+ï¿½?	O
 ðŸ’¯	O
 
 I	O
@@ -7107,7 +7107,7 @@ DavDoc95	PER
 I	O
 'm	O
 off	O
-ðŸ˜?	O
+ï¿½?	O
 
 Yeah	O
 .	O
@@ -7214,7 +7214,7 @@ n't	O
 temp	O
 me	O
 .	O
-â€?	O
+ï¿½?	O
 #itcouldallbesosimple	O
 
 Gerrard	PER
@@ -7564,7 +7564,7 @@ that	O
 loves	O
 you	O
 !	O
-â€?	O
+ï¿½?	O
 
 bgd	O
 wooow	O
@@ -8046,7 +8046,7 @@ Godmother	PER
 (	O
 Cinderella	PER
 )	O
-â€?	O
+ï¿½?	O
 
 RT	O
 @	PER
@@ -8206,7 +8206,7 @@ you	O
 ,	O
 honey	O
 â˜€	O
-ï¸?	O
+ï¿½?	O
 801	O
 
 Check	O
@@ -8682,8 +8682,8 @@ will	O
 be	O
 here	O
 forever	O
-â?¤	O
-ï¸?	O
+ï¿½?ï¿½	O
+ï¿½?	O
 ðŸ’•	O
 
 RT	O
@@ -8734,7 +8734,7 @@ for	O
 you	O
 .	O
 "	O
-â€?	O
+ï¿½?	O
 
 http://t.co/hY2E3nx3fR	O
 
@@ -8887,10 +8887,10 @@ mom	O
 is	O
 the	O
 best	O
-â?¤	O
-ï¸?	O
+ï¿½?ï¿½	O
+ï¿½?	O
 ðŸ’ª	O
-ðŸ™?	O
+ï¿½?	O
 
 @	PER
 ss_Dbz	PER
@@ -9426,7 +9426,7 @@ voice	O
 is	O
 gettin	O
 higherrr	O
-ðŸ˜?	O
+ï¿½?	O
 
 Tancia	PER
 ,	O
@@ -9558,7 +9558,7 @@ the	O
 end	O
 of	O
 exams	O
-ðŸ‘?	O
+ï¿½?	O
 
 @npomalley	O
 Horror	O
@@ -10099,12 +10099,12 @@ have	O
 a	O
 movie	O
 night	O
-â€?	O
+ï¿½?	O
 dooo	O
 it	O
 
 Fuel	O
-ðŸ”?	O
+ï¿½?	O
 #filter	O
 #likeforlikes	O
 #likeforshoutout	O
@@ -10200,7 +10200,7 @@ YOU	O
 :	O
 3	O
 
-ã‚?	O
+ï¿½?	O
 
 Damn	O
 ,	O
@@ -10367,7 +10367,7 @@ YellowOLLG	PER
 cutest	O
 thing	O
 ever	O
-ðŸ˜?	O
+ï¿½?	O
 https://t.co/rdZjppp1d8	O
 
 RT	O
@@ -10727,7 +10727,7 @@ said	O
 .	O
 #themilitia	O
 https://t.co/FyhVoZq9Eo	O
-â€?	O
+ï¿½?	O
 bruh	O
 ðŸ˜‚	O
 ðŸ˜‚	O
@@ -10942,7 +10942,7 @@ I	O
 never	O
 drinking	O
 again	O
-â€?	O
+ï¿½?	O
 we	O
 've	O
 all	O
@@ -11714,7 +11714,7 @@ with	O
 her	O
 man	O
 ðŸ˜ˆ	O
-ðŸ˜?	O
+ï¿½?	O
 
 my	O
 twitter	ORG
@@ -11864,7 +11864,7 @@ days	O
 !	O
 ðŸŽ‰	O
 ðŸŽˆ	O
-ðŸŽ?	O
+ï¿½?	O
 ðŸŽ‚	O
 
 @	PER
@@ -11969,7 +11969,7 @@ March	O
 ðŸ˜Œ	O
 ðŸŒ»	O
 â˜€	O
-ï¸?	O
+ï¿½?	O
 
 @	PER
 mynameiscal	PER
@@ -12459,7 +12459,7 @@ everyone	O
 else	O
 wants	O
 ðŸ˜œ	O
-ðŸ˜?	O
+ï¿½?	O
 ðŸ˜’	O
 
 Photo	O
@@ -12608,7 +12608,7 @@ way	O
 we	O
 can	O
 lose	O
-ðŸ™?	O
+ï¿½?	O
 
 Today	O
 stats	O
@@ -13158,7 +13158,7 @@ whats	O
 inside	O
 that	O
 counts	O
-â€?	O
+ï¿½?	O
 @	PER
 sarachom	PER
 
@@ -13612,7 +13612,7 @@ out	O
 Hideous	O
 Hag	O
 Coming	O
-â€?	O
+ï¿½?	O
 before	O
 entering	O
 a	O
@@ -13931,7 +13931,7 @@ in	O
 their	O
 favs	O
 .	O
-â€?	O
+ï¿½?	O
 
 Check	O
 out	O
@@ -13969,7 +13969,7 @@ NiallOfficial	PER
 @	PER
 zaynmalik	PER
 Please	O
-â?¤	O
+ï¿½?ï¿½	O
 http://t.co/hbNsOpyUlf	O
 
 RT	O
@@ -14571,7 +14571,7 @@ at	O
 it	O
 ðŸ™Œ	O
 âš¾	O
-ï¸?	O
+ï¿½?	O
 
 yesss	O
 1000	O
@@ -15247,7 +15247,7 @@ in	O
 their	O
 old	O
 age	O
-ðŸ’?	O
+ï¿½?	O
 
 @Ashton5SOS	O
 ILYSM	O
@@ -15535,7 +15535,7 @@ kid	O
 .	O
 .	O
 .	O
-â€?	O
+ï¿½?	O
 
 RT	O
 @	PER
@@ -15736,7 +15736,7 @@ snapchats	ORG
 you	O
 back	O
 http://t.co/AZWh6JpyfO	O
-â€?	O
+ï¿½?	O
 
 I	O
 hate	O
@@ -16074,7 +16074,7 @@ like	O
 ðŸ˜­	O
 ðŸ˜‚	O
 âœˆ	O
-ï¸?	O
+ï¿½?	O
 ðŸš€	O
 https://t.co/i18A2I3efM	O
 
@@ -16252,7 +16252,7 @@ music	O
 never	O
 gets	O
 old	O
-â€?	O
+ï¿½?	O
 
 @	ORG
 TheManicMedium	ORG
@@ -16611,8 +16611,8 @@ School	LOC
 Be	O
 there	O
 ðŸ‘Œ	O
-ðŸ‘?	O
-ðŸ?€	O
+ï¿½?	O
+ï¿½?ï¿½	O
 #LWGB	O
 #five	O
 http://t.co/mjNAK9KqFP	O
@@ -16684,7 +16684,7 @@ loyal	O
 .	O
 .	O
 .	O
-â€?	O
+ï¿½?	O
 
 RT	O
 @	PER
@@ -16702,7 +16702,7 @@ Attack	O
 -	O
 Yongguk-	O
 2	O
-â?¤	O
+ï¿½?ï¿½	O
 Cr	O
 .	O
 choiza11	O
@@ -17033,8 +17033,8 @@ lesleysfarm	ORG
 https://t.co/S79DbiQTmf	O
 http://t.co/KiVZwLuC3J	O
 
-ðŸ‘?	O
-ðŸ‘?	O
+ï¿½?	O
+ï¿½?	O
 Drake	PER
 ,	O
 well	O
@@ -17060,7 +17060,7 @@ exploding	O
 my	O
 phone	O
 lol	O
-â€?	O
+ï¿½?	O
 frrl	O
 
 @	PER
@@ -17141,7 +17141,7 @@ spring	O
 break	O
 ?	O
 â˜€	O
-ï¸?	O
+ï¿½?	O
 ðŸ˜‚	O
 #Bryant	PER
 #6thFan	O
@@ -17376,7 +17376,7 @@ big	O
 10	O
 -	O
 4	O
-ðŸ˜?	O
+ï¿½?	O
 
 RT	O
 @	PER
@@ -17722,7 +17722,7 @@ Creep	O
 Mommy	O
 ðŸ˜‚	O
 â˜€	O
-ï¸?	O
+ï¿½?	O
 ðŸ‘‹	O
 https://t.co/v8onj0aG2p	O
 
@@ -17839,7 +17839,7 @@ Strangling	O
 American	O
 Business	O
 http://t.co/eWsfeYFuzo	O
-#corpgovâ€?	O
+#corpgovï¿½?	O
 
 Arsenal	ORG
 your	O
@@ -17886,7 +17886,7 @@ work	O
 visits	O
 from	O
 bae	O
-ðŸ˜?	O
+ï¿½?	O
 ðŸ˜Š	O
 
 @	PER
@@ -18509,29 +18509,29 @@ http://t.co/w6xTez8DyR	O
 Followers	O
 Chain	O
 âœ¤	O
-â?¶	O
+ï¿½?ï¿½	O
 Follow	O
 me	O
 &	O
 I	O
 follow	O
 you	O
-â?·	O
+ï¿½?ï¿½	O
 RT	O
 this	O
 tweet	O
-â?¸	O
+ï¿½?ï¿½	O
 Follow	O
 all	O
 the	O
 #RT	O
 ers	O
-â?¹	O
+ï¿½?ï¿½	O
 #Follow	O
 your	O
 new	O
 #followers	O
-â?º	O
+ï¿½?ï¿½	O
 Gain	O
 followers	O
 !	O
@@ -19193,7 +19193,7 @@ think	O
 alike	O
 I	O
 guess	O
-ðŸ‘?	O
+ï¿½?	O
 
 http://t.co/5AYwKx0n1p	O
 
@@ -19287,7 +19287,7 @@ life	O
 and	O
 death	O
 .	O
-â€?	O
+ï¿½?	O
 â€•	O
 Nancy	PER
 Werlin	PER
@@ -19342,7 +19342,7 @@ today	O
 till	O
 #WWAT	O
 aghhh	O
-ðŸ˜?	O
+ï¿½?	O
 
 RT	O
 @	ORG
@@ -19384,7 +19384,7 @@ know	O
 nigga	O
 #springfest	O
 http://t.co/3p1Y0hQOFX	O
-â€?	O
+ï¿½?	O
 
 "	O
 @	PER
@@ -19605,7 +19605,7 @@ the	O
 world	O
 to	O
 me	O
-ðŸ?§	O
+ï¿½?ï¿½	O
 ðŸ™ˆ	O
 1004	O
 
@@ -19629,9 +19629,9 @@ watching	O
 this	O
 http://t.co/unhveP25qS	O
 "	O
-ðŸ˜?	O
-ðŸ˜?	O
-ðŸ˜?	O
+ï¿½?	O
+ï¿½?	O
+ï¿½?	O
 
 Whats	O
 the	O
@@ -19810,7 +19810,7 @@ screenshots	O
 your	O
 snapchat	ORG
 http://t.co/08seL040Pw	O
-â€?	O
+ï¿½?	O
 @	PER
 janeklee	PER
 @stinawesome	O
@@ -19904,7 +19904,7 @@ cries	O
 a	O
 lot	O
 *	O
-â€?	O
+ï¿½?	O
 i	O
 wish	O
 
@@ -20149,7 +20149,7 @@ by	O
 them	O
 like	O
 http://t.co/kHFDhP4pG1	O
-â€?	O
+ï¿½?	O
 ðŸ˜‚	O
 ðŸ˜‚	O
 ðŸ˜­	O
@@ -20708,7 +20708,7 @@ hard	O
 right	O
 now	O
 .	O
-â€?	O
+ï¿½?	O
 Awwww	O
 
 RT	O
@@ -21282,8 +21282,8 @@ soon	O
 love	O
 you	O
 tons	O
-â?¤	O
-ï¸?	O
+ï¿½?ï¿½	O
+ï¿½?	O
 
 I	O
 'm	O
@@ -21477,7 +21477,7 @@ child	O
 predator	O
 from	O
 SC	LOC
-â€?	O
+ï¿½?	O
 http://t.co/9F4sP4o2YB	O
 
 RT	O
@@ -21814,7 +21814,7 @@ chic	O
 got	O
 twitter	O
 ?	O
-â€?	O
+ï¿½?	O
 DIIIIIE	O
 !	O
 
@@ -21984,7 +21984,7 @@ nobody	O
 's	O
 2nd	O
 option	O
-ðŸ‘?	O
+ï¿½?	O
 you	O
 got	O
 me	O
@@ -22316,7 +22316,7 @@ Biggest	O
 turn	O
 off	O
 ?	O
-â€?	O
+ï¿½?	O
 
 I	O
 am	O
@@ -22781,7 +22781,7 @@ a	O
 DIRTYYYY	O
 DANCERRRR	O
 ðŸ’ƒ	O
-ðŸ˜?	O
+ï¿½?	O
 @	LOC
 KingslandRd	LOC
 
@@ -22975,7 +22975,7 @@ cute	O
 captions	O
 as	O
 well	O
-â€?	O
+ï¿½?	O
 
 Morgan	PER
 Schneiderlin	PER
@@ -23583,7 +23583,7 @@ do	O
 n't	O
 blame	O
 him	O
-ðŸ˜?	O
+ï¿½?	O
 
 RT	O
 @	PER
@@ -23888,7 +23888,7 @@ to	O
 bad	O
 guy	O
 rn	O
-ðŸ˜?	O
+ï¿½?	O
 
 In	O
 a	O
@@ -23920,7 +23920,7 @@ mentor	O
 Teachers	O
 matter	O
 .	O
-â€?	O
+ï¿½?	O
 http://t.co/d2bGvq6UEu	O
 http://t.co/ib9T16OIjD	O
 
@@ -24557,7 +24557,7 @@ I	O
 not	O
 going	O
 Tuesday	O
-ðŸ˜?	O
+ï¿½?	O
 
 RT	O
 @fIirting	O
@@ -24861,7 +24861,7 @@ Laws	O
 of	O
 the	O
 Jungle	O
-â€?	O
+ï¿½?	O
 http://t.co/0T9VxJwN0i	O
 
 @	PER
@@ -24966,7 +24966,7 @@ few	O
 years	O
 
 @Cole_Dudee	O
-ðŸ˜?	O
+ï¿½?	O
 ðŸ˜”	O
 
 @	PER
@@ -25477,7 +25477,7 @@ Men	ORG
 Releases	O
 â€œ	O
 Erase	O
-â€?	O
+ï¿½?	O
 MV	O
 Teaser	O
 and	O
@@ -25711,8 +25711,8 @@ you	O
 Love	O
 you	O
 too	O
-â?¤	O
-ï¸?	O
+ï¿½?ï¿½	O
+ï¿½?	O
 ðŸ’‹	O
 
 RT	O
@@ -25800,7 +25800,7 @@ Spotlight	O
 on	O
 Award	O
 Winners	O
-â€?	O
+ï¿½?	O
 is	O
 a	O
 seri	O
@@ -26300,7 +26300,7 @@ We	O
 totally	O
 do	O
 ðŸ˜ƒ	O
-ðŸ?»	O
+ï¿½?ï¿½	O
 
 RT	O
 @	PER
@@ -26344,7 +26344,7 @@ thank	O
 you	O
 sweetheart	O
 ðŸ’œ	O
-ðŸ’?	O
+ï¿½?	O
 
 In	O
 the	O
@@ -26398,7 +26398,7 @@ love	O
 u	O
 so	O
 ðŸ™ˆ	O
-ðŸ˜?	O
+ï¿½?	O
 xx7	O
 
 I	O
@@ -26720,9 +26720,9 @@ thunder	O
 and	O
 rain	O
 âš¡	O
-ï¸?	O
+ï¿½?	O
 â˜”	O
-ï¸?	O
+ï¿½?	O
 
 RT	O
 @ShutYoDumbAssUp	O
@@ -27216,7 +27216,7 @@ page	O
 ðŸ˜œ	O
 ðŸ˜‚	O
 ðŸ˜‚	O
-ðŸ‘?	O
+ï¿½?	O
 ðŸ‘Œ	O
 
 it	O
@@ -27320,7 +27320,7 @@ error	O
 and	O
 thinking	O
 FUCK	O
-â€?	O
+ï¿½?	O
 
 No	O
 :(	O
@@ -27648,10 +27648,10 @@ a	O
 hair	O
 cut	O
 
-ðŸ?§	O
-ðŸ?¨	O
-ðŸ?¯	O
-ðŸ?´	O
+ï¿½?ï¿½	O
+ï¿½?ï¿½	O
+ï¿½?ï¿½	O
+ï¿½?ï¿½	O
 ðŸ’—	O
 @	PER
 Luke5SOS	PER
@@ -27709,7 +27709,7 @@ a	O
 dream	O
 last	O
 #KCA	ORG
-#VoteSeIenaâ€?	PER
+#VoteSeIenaï¿½?	PER
 
 RT	O
 @	PER
@@ -27731,7 +27731,7 @@ ca	O
 n't	O
 speak	O
 Spanish	O
-ðŸ’?	O
+ï¿½?	O
 
 Motivation	O
 for	O
@@ -28135,8 +28135,8 @@ for	O
 doing	O
 it	O
 more	O
-â˜?	O
-ï¸?	O
+ï¿½?	O
+ï¿½?	O
 
 "	O
 As	O
@@ -28206,7 +28206,7 @@ all	O
 on	O
 today	O
 ?	O
-â€?	O
+ï¿½?	O
 
 [	O
 PENIEL	O
@@ -28506,7 +28506,7 @@ twitter	ORG
 than	O
 facebook	ORG
 .	O
-â€?	O
+ï¿½?	O
 
 BelTA	O
 :	O
@@ -28684,9 +28684,9 @@ get	O
 one	O
 free	O
 !	O
-ðŸ‘?	O
-ðŸ‘?	O
-ðŸ‘?	O
+ï¿½?	O
+ï¿½?	O
+ï¿½?	O
 
 RT	O
 @	ORG
@@ -29105,8 +29105,8 @@ to	O
 my	O
 BFF	O
 #ILoveYou	O
-â?¤	O
-ï¸?	O
+ï¿½?ï¿½	O
+ï¿½?	O
 http://t.co/yNiKpmsDmZ	O
 http://t.co/QdUfhZEl3g	O
 
@@ -29800,7 +29800,7 @@ you	O
 plz	O
 be	O
 amazing	O
-ðŸ™?	O
+ï¿½?	O
 ðŸ’•	O
 ðŸ˜œ	O
 
@@ -29894,9 +29894,9 @@ tweet	O
 !	O
 !	O
 #DigiFestTorontoThisSaturday	LOC
-ðŸ˜?	O
-ðŸ˜?	O
-ðŸ˜?	O
+ï¿½?	O
+ï¿½?	O
+ï¿½?	O
 
 @	PER
 LiamLew23	PER
@@ -29907,7 +29907,7 @@ on	O
 3	O
 come	O
 on	O
-ðŸ™?	O
+ï¿½?	O
 
 @	PER
 bastardburrito	PER
@@ -29981,7 +29981,7 @@ ghost	O
 all	O
 day	O
 http://t.co/EJKQx8jmXa	O
-â€?	O
+ï¿½?	O
 lmaooooo	O
 !	O
 
@@ -31032,7 +31032,7 @@ girl	O
 @	PER
 ElizabethJanee	PER
 ðŸŽˆ	O
-ðŸŽ?	O
+ï¿½?	O
 ðŸŽ‰	O
 love	O
 you	O

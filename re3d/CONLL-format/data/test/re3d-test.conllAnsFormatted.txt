@@ -407,7 +407,7 @@ or	O
 partner	ORG
 forces	ORG
 .	O
-â€?	O
+ï¿½?	O
 
 We	ORG
 refer	O
@@ -2181,7 +2181,7 @@ localized	O
 counter	O
 attacks	O
 .	O
-â€?	O
+ï¿½?	O
 The	ORG
 squadron	ORG
 will	O
@@ -3245,7 +3245,7 @@ Arabic	O
 ÙŠ	O
 Ù†	O
 Jab	O
-Ä?	O
+ï¿½?	O
 l	O
 Hamr	O
 Ä«	O
@@ -3550,7 +3550,7 @@ with	O
 our	ORG
 partners	ORG
 .	O
-â€?	O
+ï¿½?	O
 
 I	PER
 commend	O
@@ -5456,3 +5456,4 @@ of	O
 the	O
 attack	O
 .	O
+
