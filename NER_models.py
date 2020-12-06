@@ -38,11 +38,12 @@ pos_tags = pos_tag(tok_words)
 print(nltk.ne_chunk(pos_tags))
 
 #Flair NE
-import flair
-tagger = SequenceTagger.load('ner') #takes very long to load
-sentence = Sentence('George Washington went to Washington .')
-tagger.predict(sentence)
-print(sentence.to_tagged_string())
+
+# import flair
+# tagger = SequenceTagger.load('ner') #takes very long to load
+# sentence = Sentence('George Washington went to Washington .')
+# tagger.predict(sentence)
+# print(sentence.to_tagged_string())
 #This should print: "George <B-PER> Washington <E-PER> went to Washington <S-LOC> ."
 
 
