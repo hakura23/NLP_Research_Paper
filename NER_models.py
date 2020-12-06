@@ -2,6 +2,9 @@ import nltk
 from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
 
+# test on output_format.py
+import output_format
+
 # sample text and tokenized text
 text = 'Qiaotong Wu, Bruce Jiang, and Thomas Lin are students at New York University working on NER taggers.'
 tok_words = word_tokenize(text)

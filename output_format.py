@@ -17,7 +17,7 @@ def stanford_format(list_of_taggings):
 
 
 # spaCy
-def spaCy_format(list_of_taggings):
+def spacy_format(list_of_taggings):
     out_str = '\n'
     length = len(list_of_taggings)
     for i in range(length):
