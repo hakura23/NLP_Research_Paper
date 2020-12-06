@@ -3,7 +3,7 @@ from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
 
 # sample text and tokenized text
-text = 'Qiaotong\n Wu\n, Bruce\n Jiang\n, and\n Thomas\n Lin\n are\n students\n at\n New\n York\n University\n working\n on\n NER\n taggers\n.\n'
+text = 'Qiaotong Wu, Bruce Jiang, and Thomas Lin are students at New York University working on NER taggers.'
 tok_words = word_tokenize(text)
 
 
@@ -71,32 +71,25 @@ for token in sentence:
 
 
 
-# SpaCY still needs improvement on output format
-# print('\n\n\nSpaCY\n\n\n')
+print('\n\n\nSpaCY\n\n\n')
 
-# #spaCy NE
+#spaCy NE
 
-# # same as above, first thing to do: pip3 install spacy
-# # then, run: python3 -m spacy download en_core_web_sm
+# same as above, first thing to do: pip3 install spacy
+# then, run: python3 -m spacy download en_core_web_sm
 
-# # import spacy
 # import spacy
+import spacy
 
-# # load the tagger
-# tagger = spacy.load("en_core_web_sm")
+# load the tagger
+tagger = spacy.load("en_core_web_sm")
 
-# doc = tagger(text)
-# # we can just use the label data field to see the tag
-# for ent in doc.ents:
-#     print(ent.text, ent.start_char, ent.end_char, ent.label_)
+doc = tagger(text)
+# we can just use the label data field to see the tag
+for word in doc:
+    print(word.text, word.ent_type_)
 
-# Wu 10 13 PERSON
-# Bruce 15 20 PERSON
-# Jiang 22 27 PERSON
-# Thomas
-#  Lin 35 46 PERSON
-# York
-#  University 72 88 ORG
+# Notice that if a word is not tagged, its tag is an empty string
 
 
 # #Polyglot
