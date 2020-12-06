@@ -19,8 +19,8 @@ print('\n\n\nStanford:\n\n\n')
 
 from nltk.tag import StanfordNERTagger
 
-model = 'Downloads/stanford-ner-2020-11-17/classifiers/english.all.3class.distsim.crf.ser.gz'
-jar = 'Downloads/stanford-ner-2020-11-17/stanford-ner.jar'
+model = 'stanford-ner-2020-11-17/classifiers/english.all.3class.distsim.crf.ser.gz'
+jar = 'stanford-ner-2020-11-17/stanford-ner.jar'
 encoding = 'utf8'
 
 tagger = StanfordNERTagger(model, jar, encoding)
