@@ -1,18 +1,20 @@
-# The parameter model is:
-# nlp = spacy.load("en_core_web_sm")
-# model = nlp(*SENTENCE WE WANT TO TAG*)
+# The method's parameter is a list of taggings from spaCy, and the method returns a formatted string
 
 
-def SpaCy_Format(model):
+def spaCy_format(list_of_taggings):
     out_str = '\n'
-    for ent in model.dents:
-        if ent.label_ == 'PERSON':
-            out_str = out_str + ent.text + '\tPER\n'
-        elif ent.label_ == 'ORG':
-            out_str = out_str + ent.text + '\tORG\n'
-        elif ent.label_ == 'GPE':
-            out_str = out_str + ent.text + '\tLOC\n'
-        elif ent.label_ == 'LOC':
-            out_str = out_str + ent.text + '\tLOC\n'
+    length = len(list_of_taggings)
+    for i in range(length):
+        tag_tuple = list_of_taggings[i]
+        if tag_tuple[1] == 'PERSON':
+            out_str = out_str + tag_tuple[0] + '\tPER\n'
+        elif tag_tuple[1] == 'ORG':
+            out_str = out_str + tag_tuple[0] + '\tORG\n'
+        elif tag_tuple[1] == 'LOC':
+            out_str = out_str + tag_tuple[0] + '\tLOC\n'
+        elif tag_tuple[1] == 'GPE':
+            out_str = out_str + tag_tuple[0] + '\tLOC\n'
+        else:
+            out_str = out_str + tag_tuple[0] + '\tO\n'
     out_str = out_str + '\n'
     return out_str
