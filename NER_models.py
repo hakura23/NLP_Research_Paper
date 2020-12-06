@@ -37,3 +37,34 @@ print('\n\n\nNLTK:\n\n\n')
 pos_tags = pos_tag(tok_words)
 print(nltk.ne_chunk(pos_tags))
 
+#Flair NE
+import flair
+tagger = SequenceTagger.load('ner') #takes very long to load
+sentence = Sentence('George Washington went to Washington .')
+tagger.predict(sentence)
+print(sentence.to_tagged_string())
+#This should print: "George <B-PER> Washington <E-PER> went to Washington <S-LOC> ."
+
+
+#spaCy NE
+import spacy
+nlp = spacy.load("en_core_web_sm")
+
+doc = nlp('Qiaotong\n Wu\n, Bruce\n Jiang\n, and\n Thomas\n Lin\n are\n students\n at\n New\n York\n University\n working\n on\n NER\n taggers\n.\n')
+#We can just use the label data field to see the tag
+for ent in doc.ents:
+	    print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+# Wu 10 13 PERSON
+# Bruce 15 20 PERSON
+# Jiang 22 27 PERSON
+# Thomas
+#  Lin 35 46 PERSON
+# York
+#  University 72 88 ORG
+
+
+#Polyglot
+
+
+
