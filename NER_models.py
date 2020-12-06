@@ -91,8 +91,3 @@ for word in doc:
 
 # Notice that if a word is not tagged, its tag is an empty string
 
-
-# #Polyglot
-
-
-
