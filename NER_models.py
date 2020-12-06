@@ -11,9 +11,10 @@ print('\n\n\nStanford:\n\n\n')
 
 # Stanford Core Tagger
 
-# no need to download the stanford software, I have included the software in the current dictory, stanford-ner-2020-11-17
-# the stanford model takes three parameters to init, first one is the classifier (the path to a file in the classfiers directory), 
-# the second is the stanford-ner.jar file in the package (the path to the stanford-ner.jar file)
+# download the stanford software from https://nlp.stanford.edu/software/CRF-NER.html, you'll get a package called stanfer-ner-2020-11-17
+# the stanford model takes three parameters to init:
+# first one is the path to classifier (the path to a file in the classfiers directory in stanford-ner-2020-11-17), 
+# the second is the stanford-ner.jar file in the package (the path to the stanford-ner.jar file in stanford-ner-2020-11-17)
 # the third is the encoding info, in this case we just pass in utf8
 
 # to run the stanfordNERTagger, init one instance, call it "tagger", tokenize the text, and run tagger.tag(the tokenized text)
