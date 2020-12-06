@@ -1,0 +1,87 @@
+
+
+
+Stanford:
+
+
+
+[('Qiaotong', 'PERSON'), ('Wu', 'PERSON'), (',', 'O'), ('Bruce', 'PERSON'), ('Jiang', 'PERSON'), (',', 'O'), ('and', 'O'), ('Thomas', 'PERSON'), ('Lin', 'PERSON'), ('are', 'O'), ('students', 'O'), ('at', 'O'), ('New', 'ORGANIZATION'), ('York', 'ORGANIZATION'), ('University', 'ORGANIZATION'), ('working', 'O'), ('on', 'O'), ('NER', 'O'), ('taggers', 'O'), ('.', 'O')]
+
+
+
+NLTK:
+
+
+
+(S
+  (GPE Qiaotong/NNP)
+  (PERSON Wu/NNP)
+  ,/,
+  (PERSON Bruce/NNP Jiang/NNP)
+  ,/,
+  and/CC
+  (PERSON Thomas/NNP Lin/NNP)
+  are/VBP
+  students/NNS
+  at/IN
+  (GPE New/NNP York/NNP University/NNP)
+  working/VBG
+  on/IN
+  (ORGANIZATION NER/NNP)
+  taggers/NNS
+  ./.)
+
+
+
+Flair:
+
+
+
+2020-12-06 13:09:57,251 loading file /Users/jiangzilong/.flair/models/en-ner-conll03-v0.4.pt
+Qiaotong	B-PER
+Wu	E-PER
+,	O
+Bruce	B-PER
+Jiang	E-PER
+,	O
+and	O
+Thomas	B-PER
+Lin	E-PER
+are	O
+students	O
+at	O
+New	B-ORG
+York	I-ORG
+University	E-ORG
+working	O
+on	O
+NER	S-ORG
+taggers	O
+.	O
+
+
+
+SpaCY
+
+
+
+Qiaotong PERSON
+Wu PERSON
+, 
+Bruce PERSON
+Jiang PERSON
+, 
+and 
+Thomas PERSON
+Lin PERSON
+are 
+students 
+at 
+New ORG
+York ORG
+University ORG
+working 
+on 
+NER ORG
+taggers 
+. 
