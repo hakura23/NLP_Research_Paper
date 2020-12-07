@@ -14,7 +14,7 @@ f = open("flair-output.txt", "w")
 buf = '\n'
 
 for text in source:
-    sentence = Sentence(text)
+    sentence = Sentence(text.split(' '))
     tagger.predict(sentence)
     lst = []
     for token in sentence:

@@ -4,7 +4,6 @@ import sys
 import nltk
 from nltk.tag import StanfordNERTagger
 from nltk.tag import pos_tag
-from nltk.tokenize import word_tokenize
 
 # this program reads in the command line argument, which is a path to the corpus, runs the stanford model on it and creates a output txt file
 
@@ -15,8 +14,6 @@ file_path = sys.argv[1]
 
 # call transform function to turn the file into a list of sentences
 sentences = corpus_transform.transform(file_path)
-
-print(sentences)
 
 # initiate the tagger
 model = '../stanford-ner-2020-11-17/classifiers/english.all.3class.distsim.crf.ser.gz'

@@ -1,11 +1,11 @@
 
-Hello	O
-World	O
+Hello	ORG
+World	ORG
 
 Qiaotong	PER
 Wu	PER
 ,	O
-@Bruce	O
+@Bruce	PER
 Jiang	PER
 ??	O
 !!	O
@@ -14,12 +14,12 @@ New	ORG
 York	ORG
 University	ORG
 
-FIFA	ORG
-World	ORG
-Cup	ORG
+FIFA	O
+World	O
+Cup	O
 Los	ORG
 Angeles	ORG
 New	ORG
 York	ORG
-#Where	O
+#Where	ORG
 
