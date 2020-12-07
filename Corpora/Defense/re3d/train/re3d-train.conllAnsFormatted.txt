@@ -4,21 +4,6 @@ Steel	O
 Curtain	O
 (	O
 Arabic	O
-:	O
-Ø§	O
-Ù„	O
-Ø­	O
-Ø¬	O
-Ø§	O
-Ø¨	O
-Ø§	O
-Ù„	O
-Ù?	O
-Ùˆ	O
-Ù„	O
-Ø§	O
-Ø°	O
-ÙŠ	O
 Al	O
 Hejab	O
 Elfulathi	O
@@ -261,7 +246,7 @@ are	O
 all	O
 here	LOC
 ,	O
-â€?	O
+ï¿½?	O
 said	O
 Col.	PER
 Travis	PER
@@ -1029,7 +1014,7 @@ counter	O
 ISIL	O
 operations	O
 ,	O
-â€?	O
+ï¿½?	O
 said	O
 Col.	PER
 John	PER
@@ -1165,7 +1150,7 @@ he	O
 was	O
 â€œ	O
 innocent	O
-â€?	O
+ï¿½?	O
 .	O
 
 Some	ORG
@@ -1213,7 +1198,7 @@ and	O
 brutal	O
 ideology	O
 .	O
-â€?	O
+ï¿½?	O
 
 The	O
 report	O
@@ -1980,7 +1965,7 @@ Assad	PER
 s	O
 â€œ	O
 war	O
-â€?	O
+ï¿½?	O
 on	O
 ISIL	ORG
 is	O
@@ -2518,7 +2503,7 @@ on	O
 genuine	O
 transition	O
 .	O
-â€?	O
+ï¿½?	O
 
 The	PER
 Foreign	PER
@@ -3170,7 +3155,7 @@ evil	O
 of	O
 ISIL	ORG
 ,	O
-â€?	O
+ï¿½?	O
 Carter	PER
 said	O
 in	O
@@ -3246,7 +3231,7 @@ Karbouly	PER
 Ø¯	O
 Ø®	O
 Ù„	O
-Ù?	O
+ï¿½?	O
 Ø§	O
 Ù„	O
 Ùƒ	O
@@ -4406,7 +4391,7 @@ friends	O
 and	O
 teammates	O
 ,	O
-â€?	O
+ï¿½?	O
 Army	PER
 Lt.	PER
 Gen.	PER
@@ -6999,7 +6984,7 @@ job	O
 more	O
 difficult	O
 ,	O
-â€?	O
+ï¿½?	O
 Cook	PER
 said	O
 .	O
@@ -7144,7 +7129,7 @@ real	O
 than	O
 this	O
 .	O
-â€?	O
+ï¿½?	O
 
 FCO	PER
 Minister	PER
@@ -7300,7 +7285,7 @@ from	O
 the	O
 ground	O
 .	O
-â€?	O
+ï¿½?	O
 
 I	PER
 was	O
@@ -7615,7 +7600,7 @@ keep	O
 us	O
 safe	O
 .	O
-â€?	O
+ï¿½?	O
 
 Staff	O
 Sgt.	O
@@ -7651,7 +7636,7 @@ in	O
 the	O
 machines	O
 .	O
-â€?	O
+ï¿½?	O
 The	O
 exercise	O
 showcased	O
@@ -7759,7 +7744,7 @@ security	O
 and	O
 stability	O
 .	O
-â€?	O
+ï¿½?	O
 
 â€œ	O
 Mr	PER
@@ -8735,7 +8720,7 @@ attack	O
 in	O
 Istanbul	LOC
 ,	O
-â€?	O
+ï¿½?	O
 the	PER
 secretary	PER
 said	O
@@ -8792,7 +8777,7 @@ us	O
 every	O
 day	O
 .	O
-â€?	O
+ï¿½?	O
 
 Mr	PER
 Alzoubi	PER
@@ -9658,7 +9643,7 @@ with	O
 their	O
 systems	O
 .	O
-â€?	O
+ï¿½?	O
 
 These	O
 actions	O
@@ -11711,7 +11696,7 @@ Da	ORG
 â€™	ORG
 esh	ORG
 ,	O
-â€?	O
+ï¿½?	O
 Lyons	PER
 said	O
 .	O
@@ -12255,7 +12240,7 @@ Daesh	ORG
 to	O
 justice	O
 .	O
-â€?	O
+ï¿½?	O
 
 "	O
 Forbin	O
@@ -12395,7 +12380,7 @@ Arabic	O
 Ø·	O
 Ø§	O
 Ø¦	O
-Ù?	O
+ï¿½?	O
 Ø©	O
 Ø§	O
 Ù„	O
@@ -12412,7 +12397,7 @@ a	O
 á¹­	O
 -	O
 á¹¬	O
-Ä?	O
+ï¿½?	O
 â€™	O
 ifa	O
 al	O
@@ -13472,7 +13457,7 @@ demonstrate	O
 that	O
 commitment	O
 .	O
-â€?	O
+ï¿½?	O
 
 Attribution	O
 is	O
@@ -16138,7 +16123,7 @@ west	LOC
 of	LOC
 Raqqah	LOC
 ,	O
-â€?	O
+ï¿½?	O
 Cook	PER
 said	O
 .	O
@@ -16345,7 +16330,7 @@ important	O
 global	O
 issues	O
 .	O
-â€?	O
+ï¿½?	O
 
 Navy	PER
 Senior	PER
@@ -18803,7 +18788,7 @@ expeditionary	ORG
 fighter	ORG
 squadron	ORG
 ,	O
-â€?	O
+ï¿½?	O
 said	O
 Col.	PER
 David	PER
@@ -19090,7 +19075,7 @@ future	O
 contingency	O
 operations	O
 ,	O
-â€?	O
+ï¿½?	O
 said	O
 Russell	PER
 .	O
@@ -19255,7 +19240,7 @@ called	O
 Q	LOC
 -	LOC
 West	LOC
-â€?	O
+ï¿½?	O
 in	O
 northern	LOC
 Iraq	LOC
@@ -19612,7 +19597,7 @@ to	O
 the	ORG
 warfighter	ORG
 .	O
-â€?	O
+ï¿½?	O
 
 Especially	O
 in	O
@@ -20111,7 +20096,7 @@ on	O
 May	O
 6	O
 .	O
-â€?	O
+ï¿½?	O
 [	O
 3	O
 ]	O
@@ -20132,7 +20117,7 @@ before	O
 this	O
 exercise	O
 ,	O
-â€?	O
+ï¿½?	O
 said	O
 Spc.	PER
 Lorraine	PER
@@ -20550,7 +20535,7 @@ of	O
 this	LOC
 location	LOC
 ,	O
-â€?	O
+ï¿½?	O
 Cook	PER
 said	O
 .	O

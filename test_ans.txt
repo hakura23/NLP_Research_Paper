@@ -1,6 +1,6 @@
 
-Hello	ORG
-World	ORG
+Hello	O
+World	O
 
 Qiaotong	PER
 Wu	PER
@@ -9,17 +9,17 @@ Wu	PER
 Jiang	PER
 ??	O
 !!	O
-Yews	ORG
+Yews	O
 New	ORG
 York	ORG
 University	ORG
 
-FIFA	O
+FIFA	ORG
 World	O
 Cup	O
-Los	ORG
-Angeles	ORG
-New	ORG
-York	ORG
-#Where	ORG
+Los	LOC
+Angeles	LOC
+New	LOC
+York	LOC
+#Where	O
 
