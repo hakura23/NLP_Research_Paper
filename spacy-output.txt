@@ -1,0 +1,36 @@
+
+
+Hello	O
+World	O
+
+
+Qiaotong	PER
+Wu	PER
+,	O
+Bruce	PER
+Jiang	PER
+,	O
+Thomas	PER
+Lin	PER
+Are	O
+Students	O
+At	O
+New	ORG
+York	ORG
+University	ORG
+
+
+Bye	PER
+Bye	PER
+WHO	O
+FIFA	O
+Tomorrow	O
+Guangzhou	O
+We	O
+Love	O
+You	O
+
+
+
+
+

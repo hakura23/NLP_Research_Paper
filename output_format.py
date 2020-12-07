@@ -2,7 +2,7 @@ from nltk.chunk import tree2conlltags
 
 # Stanford
 def stanford_format(list_of_taggings):
-    out_str = '\n'   
+    out_str = ''   
     length = len(list_of_taggings)
     for i in range(length):
         tag_tuple = list_of_taggings[i]
@@ -20,7 +20,7 @@ def stanford_format(list_of_taggings):
 
 # spaCy
 def spacy_format(list_of_taggings):
-    out_str = '\n'
+    out_str = ''
     length = len(list_of_taggings)
     for i in range(length):
         tag_tuple = list_of_taggings[i]
@@ -41,7 +41,7 @@ def spacy_format(list_of_taggings):
 
 # Flair
 def flair_format(list_of_taggings):
-    out_str = '\n'   
+    out_str = ''   
     length = len(list_of_taggings)
     for i in range(length):
         tag_tuple = list_of_taggings[i]
@@ -59,7 +59,7 @@ def flair_format(list_of_taggings):
 # Format for NLTK
 def nltk_format(tag_tree):
     list_of_taggings = tree2conlltags(tag_tree)
-    out_str = '\n'
+    out_str = ''
     length = len(list_of_taggings)
     for i in range(length):
         tag_tuple = list_of_taggings[i]
