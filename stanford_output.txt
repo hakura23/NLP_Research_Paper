@@ -407,7 +407,6 @@ or	O
 partner	O
 forces	O
 .	O
-�	O
 ?	O
 
 We	O
@@ -2182,7 +2181,6 @@ localized	O
 counter	O
 attacks	O
 .	O
-�	O
 ?	O
 The	O
 squadron	O
@@ -3247,7 +3245,6 @@ Arabic	O
 ي	O
 ن	O
 Jab	O
-�	O
 ?	O
 l	O
 Hamr	O
@@ -3553,7 +3550,6 @@ with	O
 our	O
 partners	O
 .	O
-�	O
 ?	O
 
 I	O
