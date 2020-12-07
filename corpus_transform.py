@@ -17,4 +17,4 @@ def transform(file_name):
 
         line = file.readline()
 
-    return output[1:-2]
+    return output[1:]

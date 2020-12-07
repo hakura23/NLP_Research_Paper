@@ -5419,3 +5419,45 @@ are	O
 protected	O
 .	O
 
+Defeating	O
+ISIL	O
+will	O
+take	O
+time	O
+and	O
+patience	O
+but	O
+it	O
+is	O
+a	O
+fight	O
+we	O
+must	O
+win	O
+.	O
+
+A	O
+non	O
+-	O
+governmental	O
+security	O
+analyst	O
+meanwhile	O
+reported	O
+that	O
+IS	O
+fighters	O
+had	O
+been	O
+present	O
+in	O
+the	O
+town	O
+at	O
+the	O
+time	O
+of	O
+the	O
+attack	O
+.	O
+
