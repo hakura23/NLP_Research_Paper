@@ -30,7 +30,7 @@ output = open('stanford_output.txt', 'w')
 buf = '\n'
 
 for sentence in sentences:
-    tok_words = word_tokenize(sentence)
+    tok_words = sentence.split(' ')
     buf += output_format.stanford_format(tagger.tag(tok_words))
 
 output.write(buf)

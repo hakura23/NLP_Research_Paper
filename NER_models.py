@@ -6,8 +6,8 @@ from nltk.tokenize import word_tokenize
 import output_format
 
 # sample text and tokenized text
-text = 'Qiaotong Wu, Bruce Jiang, and Thomas Lin are students at New York University working on NER taggers.'
-tok_words = word_tokenize(text)
+text = 'Qiaotong Wu , Bruce Jiang , and Thomas Lin are students at New York University working on NER taggers .'
+tok_words = text.split(' ')
 
 
 print('\n\n\nStanford:\n\n\n')
