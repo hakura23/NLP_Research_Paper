@@ -1802,7 +1802,7 @@ in	O
 our	O
 sky	O
 .	O
-â€?	O
+ï¿½?	O
 http://t.co/PrtjiVPBks	O
 
 President	PER
@@ -2222,7 +2222,6 @@ lovely	O
 aunt	O
 .	O
 .	O
-ðŸ’” 	O
 MH17 	O
 PrayForMH17 	O
 ttp://t.co/sGX65yebKk	O
@@ -3663,7 +3662,7 @@ letter	O
 to	O
 â€œ	O
 murderers	O
-â€?	O
+ï¿½?	O
 of	O
 daughter	O
 after	O
